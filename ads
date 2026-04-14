@@ -63968,3 +63968,14 @@
 ||metrics-dra.dt.hicloud.com^
 ||business.samsungusa.com^
 ||supportmetrics.apple.com^
+||youth4disarmament.org^
+||deborahbfotografia.it^
+||gebaeudeservice-jekosch.de^
+||adiura-potenza.it^
+||toiturebjk.fr^
+||wincoa.nl^
+||drumpraat.nl^
+||ristorantezumbrillenbar.it^
+||dentalframes.nl^
+||chevillargeil.fr^
+||papageno-bowling.de^
